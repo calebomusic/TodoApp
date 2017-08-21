@@ -1,0 +1,20 @@
+.todo {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;    
+}
+
+.name {
+    margin-right: 2px;
+}
+
+.completed {
+    margin: 4px;
+    background-color: black;
+}
+
+.delete {
+    background: black;
+    color: white;
+    margin-right: 5px;
+}
